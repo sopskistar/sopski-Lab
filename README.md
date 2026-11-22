@@ -50,6 +50,6 @@ A living, evidence-first record of **independent software and infrastructure eng
 4. Mark each capability **implemented**, **validated locally**, **deployed**, **partially verified**, **planned** or **blocked**.
 5. Keep this index current, and update the corresponding project's `Cloud Engineering & DevOps` README section.
 
-[Skill and evidence matrix](docs/SKILL_MATRIX.md) · [Learning and infrastructure roadmap](docs/INFRASTRUCTURE_ROADMAP.md)
+[All 27 documented projects](docs/PROJECT_INDEX.md) · [Skill and evidence matrix](docs/SKILL_MATRIX.md) · [Learning roadmap](docs/INFRASTRUCTURE_ROADMAP.md) · [GitHub profile setup](docs/GITHUB_PROFILE_SETUP.md)
 
 **Professional focus:** junior cloud/backend, platform/developer support, API integration, automation, cloud operations and software QA.
